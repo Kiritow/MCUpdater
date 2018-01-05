@@ -1,6 +1,9 @@
-bin/
-obj/
-*.dll
+/bin/
+/obj/
+
 *.cbp
 *.depend
 *.layout
+
+/*.dll
+/*.exe
